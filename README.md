@@ -1,4 +1,4 @@
-# Map-Reduce
+# Map-Reduce - Aggregation
 A Map Reduce algorithm using Apache Spark (PySpark) for finding average rating of  each movie and tag by the user. 
 
 It makes use of Resilient distributed dataset (RDD)  for  collection of data.
@@ -17,7 +17,7 @@ Task 2:
 
 Calculate average rating of each tag using rating.csv and tags.csv
 
-# Park-Chen-Yu-Algorithm
+# Park-Chen-Yu-Algorithm - Frequent Itemset
 
 It is a PCY Algorithm implementation which finds frequent itemsets(pairs) in sample input data. 
 
